@@ -64,8 +64,9 @@
     <td width="50%">
       <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=FFFFFF">
       <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=FFFFFF">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF">
+      <img alt="Fedora Linux" src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=FFFFFF">
       <img width="441" height="1"/>
     </td>
   </tr>
