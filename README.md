@@ -1,10 +1,10 @@
 <h1 align="center">Hey There Coder</h1>
 
 <div align="center">
-  <a href="https://fiverr.com/skywolfxp"><img alt="Fiverr" height="24" src="https://img.shields.io/badge/-1DBF73?style=flat-square&logo=fiverr&logoColor=FFFFFF&logoSize=auto"></a>
-  <a href="https://ko-fi.com/skywolfxp"><img alt="Ko-fi" height="24" src="https://img.shields.io/badge/Shop-FF6433?style=flat-square&logo=ko-fi&logoColor=FFFFFF"></a>
-  <a href="https://reddit.com/user/skywolfxp"><img alt="Reddit" height="24" src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=FFFFFF"></a>
-  <a href="https://discord.com/users/974748803305455627"><img alt="Discord" height="24" src="https://img.shields.io/badge/%40skywolfxp.dev-5865F2?style=flat-square&logo=discord&logoColor=FFFFFF"></a>
+  <a href="https://fiverr.com/skywolfxp" target="_blank"><img alt="Fiverr" height="24" src="https://img.shields.io/badge/-1DBF73?style=flat-square&logo=fiverr&logoColor=FFFFFF&logoSize=auto"></a>
+  <a href="https://ko-fi.com/skywolfxp" target="_blank"><img alt="Ko-fi" height="24" src="https://img.shields.io/badge/Shop-FF6433?style=flat-square&logo=ko-fi&logoColor=FFFFFF"></a>
+  <a href="https://reddit.com/user/skywolfxp" target="_blank"><img alt="Reddit" height="24" src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=FFFFFF"></a>
+  <a href="https://discord.com/users/974748803305455627" target="_blank"><img alt="Discord" height="24" src="https://img.shields.io/badge/%40skywolfxp.dev-5865F2?style=flat-square&logo=discord&logoColor=FFFFFF"></a>
 </div>
 
 🐛 Writing Bugs Every Day!\
