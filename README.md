@@ -1,10 +1,10 @@
 <h1 align="center">Hey There Coder</h1>
 
-<div align="center" style="align-items: center; align-content: center; justify-items: center;">
+<div align="center" style="align-items: center; align-content: center; justify-items: center; justify-self: center;">
     <a href="https://fiverr.com/skywolfxp"><img alt="Fiverr" src="https://img.shields.io/badge/-1DBF73?style=for-the-badge&logo=fiverr&logoColor=FFFFFF&logoSize=auto"></a>
     <a href="https://reddit.com/user/omardiaadev"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&logoSize=auto"></a>
     <a href="https://discord.gg/4j7h5q5rts"><img alt="Discord" src="https://img.shields.io/discord/1055244032105787472?style=for-the-badge&logo=discord&logoColor=FFFFFF&logoSize=auto&label=%20&color=5865F2"></a>
-    <span>&bull;</span>
+    <span style="text-align: center; align-self: center; align-content: center; align-items: center;">&bull;</span>
     <a href="#"><img alt="Discord" src="https://komarev.com/ghpvc/?username=omardiaadev&style=for-the-badge&label=VIEWS&color=0055F2"></a>
 </div>
 
