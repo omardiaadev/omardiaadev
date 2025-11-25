@@ -6,9 +6,9 @@
     <a href="https://discord.gg/4j7h5q5rts"><img alt="Discord" src="https://img.shields.io/discord/1055244032105787472?style=for-the-badge&logo=discord&logoColor=FFFFFF&logoSize=auto&label=%20&color=5865F2"></a>
 </div>
 
-- Writing Bugs Every Day!
-- Learning Full-Stack Development.
-- I Program [**Discord Bots**](https://fiverr.com/s/xXKpg2D) By The Way...
+- 🐛 Writing Bugs Every Day!
+- 📝 Learning Full-Stack Development.
+- 🤖 I Program [**Discord Bots**](https://fiverr.com/s/xXKpg2D) By The Way...
 
 <h1 align="center">Experience</h1>
 
