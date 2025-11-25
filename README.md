@@ -1,15 +1,14 @@
 <h1 align="center">Hey There Coder</h1>
 
 <div align="center">
-  <a href="https://fiverr.com/skywolfxp" target="_blank"><img alt="Fiverr" height="24" src="https://img.shields.io/badge/-1DBF73?style=flat-square&logo=fiverr&logoColor=FFFFFF&logoSize=auto"></a>
-  <a href="https://ko-fi.com/skywolfxp" target="_blank"><img alt="Ko-fi" height="24" src="https://img.shields.io/badge/Shop-FF6433?style=flat-square&logo=ko-fi&logoColor=FFFFFF"></a>
-  <a href="https://reddit.com/user/skywolfxp" target="_blank"><img alt="Reddit" height="24" src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=FFFFFF"></a>
-  <a href="https://discord.com/users/974748803305455627" target="_blank"><img alt="Discord" height="24" src="https://img.shields.io/badge/%40skywolfxp.dev-5865F2?style=flat-square&logo=discord&logoColor=FFFFFF"></a>
+    <a href="https://fiverr.com/skywolfxp"><img alt="Fiverr" src="https://img.shields.io/badge/-1DBF73?style=for-the-badge&logo=fiverr&logoColor=FFFFFF&logoSize=auto"></a>
+    <a href="https://reddit.com/user/omardiaadev"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF&logoSize=auto"></a>
+    <a href="https://discord.gg/4j7h5q5rts"><img alt="Discord" src="https://img.shields.io/discord/1055244032105787472?style=for-the-badge&logo=discord&logoColor=FFFFFF&logoSize=auto&label=%20&color=5865F2"></a>
 </div>
 
-🐛 Writing Bugs Every Day!\
-📚 Learning Full-Stack Development.\
-🤖 I Program [**Discord Bots**](https://fiverr.com/s/xXKpg2D) By The Way...
+- Writing Bugs Every Day!
+- Learning Full-Stack Development.
+- I Program [**Discord Bots**](https://fiverr.com/s/xXKpg2D) By The Way...
 
 <h1 align="center">Experience</h1>
 
@@ -46,6 +45,7 @@
     </td>
     <td width="50%">
       <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=FFFFFF">
+      <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=FFFFFF">
       <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF">
     </td>
   </tr>
@@ -62,11 +62,12 @@
       <img width="441" height="1"/>
     </td>
     <td width="50%">
+      <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=FFFFFF">
       <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=FFFFFF">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF">
       <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=FFFFFF">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF">
-      <img alt="Fedora Linux" src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=FFFFFF">
+      <img alt="Zsh" src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=FFFFFF">
       <img width="441" height="1"/>
     </td>
   </tr>
