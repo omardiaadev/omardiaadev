@@ -13,12 +13,11 @@
 
 <h1 align="center">Experience</h1>
 
-<h4>Languages
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF"/></a>
+<strong>Languages</strong>
+<a href="#"><img height="16" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF"/></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF"/></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFF"/></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=FFF"/></a>
-</h4>
 
 <h4>Frameworks</h4>
 
