@@ -8,17 +8,17 @@
 
 - 🐛 Writing Bugs Every Day!
 - 📝 Studying Computer Engineering.
-- 🤖 I Provide Development [**Services**](https://fiverr.com/skywolfxp), Primarily
-  [**Discord Bots**](https://fiverr.com/s/xXKpg2D).
+- 🤖 I Provide [**Services**](https://fiverr.omardiaa.dev/), such as developing
+  [**Bots**](https://fiverr.com/s/xXKpg2D) and [**Servers**](https://fiverr.com/s/pdZkwzE).
 
 <h1 align="center">Experience</h1>
 
-<h4>Languages</h4>
-
+<h4>Languages
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF"/></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF"/></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFF"/></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=FFF"/></a>
+</h4>
 
 <h4>Frameworks</h4>
 
@@ -37,22 +37,22 @@
 
 <h4>Cloud Services</h4>
 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=FFF"/></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098"/></a>
 <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=FFF"/></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=FFF"/></a>
 
 <h4>Tools</h4>
 
-<a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=FFF"/></a>
-<a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=FFF"/></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFF"/></a>
-<a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=FFF"/></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=FFF"/></a>
-<a href="#"><img alt="Zsh" src="https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=FFF"/></a>
 <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=FFF"/></a>
 <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=FFF"/></a>
 <a href="#"><img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=FFF"/></a>
 <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=FFF"/></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=FFF"/></a>
+<a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=FFF"/></a>
+<a href="#"><img alt="fishshell" src="https://img.shields.io/badge/FISH-34C534?logo=fishshell&logoColor=FFF"/></a>
+<a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=FFF"/></a>
+<a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=FFF"/></a>
 
 <h1></h1>
 
