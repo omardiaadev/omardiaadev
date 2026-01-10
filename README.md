@@ -13,14 +13,13 @@
 
 <h1 align="center">Experience</h1>
 
-<strong>Languages</strong>
+<h4>Languages</h4>
 <a href="#"><img height="16" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF"/></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF"/></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFF"/></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=css&logoColor=FFF"/></a>
 
 <h4>Frameworks</h4>
-
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=FFF"/></a>
 <a href="#"><img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=FFF"/></a>
 <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=FFF"/></a>
@@ -29,19 +28,16 @@
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=FFF"/></a>
 
 <h4>Databases</h4>
-
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=FFF"/></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFF"/></a>
 <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=FFF"/></a>
 
 <h4>Cloud Services</h4>
-
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098"/></a>
 <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=FFF"/></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=FFF"/></a>
 
 <h4>Tools</h4>
-
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFF"/></a>
 <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=FFF"/></a>
 <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=FFF"/></a>
