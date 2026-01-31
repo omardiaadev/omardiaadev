@@ -54,6 +54,6 @@
 
 <details>
     <summary><strong>Stats</strong></summary>
-    <img alt="Stats" src="./profile/cars/stats.svg"/>
-    <img alt="Top Languages" src="./profile/cars/top-langs.svg"/>
+    <img alt="Stats" src="./profile/cards/stats.svg"/>
+    <img alt="Top Languages" src="./profile/cards/top-langs.svg"/>
 </details>
