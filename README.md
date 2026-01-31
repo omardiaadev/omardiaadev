@@ -51,3 +51,9 @@
 <h1></h1>
 
 <div align="center"><a href="#"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=omardiaadev&label=Profile%20Views&color=0055F2"/></a></div>
+
+<details>
+    <summary><strong>Stats</strong></summary>
+    <img alt="Stats" src="./profile/cars/stats.svg"/>
+    <img alt="Top Languages" src="./profile/cars/top-langs.svg"/>
+</details>
