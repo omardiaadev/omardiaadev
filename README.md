@@ -1,15 +1,15 @@
-<div id="toc">
+<div id="toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h1 align="center">Hey Coders, I'm Omar!</h1>
+      <h1>Hey Coders, I'm Omar!</h1>
     </summary>
   </ul>
 </div>
 
-<div id="toc">
+<div id="toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h2 align="center">Software Developer & Freelancer</h2>
+      <h2>Software Developer & Freelancer</h2>
     </summary>
   </ul>
 </div>
