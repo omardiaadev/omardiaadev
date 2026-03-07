@@ -21,7 +21,7 @@ jobs:
           card: stats
           path: profile/cards/stats.svg
           token: ${{ secrets.PAT }}
-          options: username=${{ github.repository_owner }}&theme=github_dark&show_icons=true&hide=commits&hide_title=true&hide_rank=true
+          options: username=${{ github.repository_owner }}&theme=github_dark&hide_title=true&show_icons=true&hide=commits&hide_rank=true
 
       - name: Generate Profile Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1

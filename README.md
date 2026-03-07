@@ -1,6 +1,8 @@
-<h2 align="center">Hey Coders, I'm Omar!</h2>
-
-<h3 align="center">Software Developer & Freelancer</h2>
+<h2 align="center">
+    Hey Coders, I'm Omar!
+    <br>
+    <h3 align="center">Software Developer & Freelancer</h3>
+</h2>
 
 <div align="center">
     <a href="https://fiverr.com/skywolfxp"><img alt="Fiverr" src="https://img.shields.io/badge/-1DBF73?style=for-the-badge&logo=fiverr&logoColor=FFF&logoSize=auto"></a>
