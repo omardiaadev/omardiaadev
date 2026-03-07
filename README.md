@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Hey Coders, I'm Omar!</h1>
-    <h3>Software Developer & Freelancer</h3>
+    <h3>Hey Coders, I'm Omar!</h3>
+    <h4>Software Developer & Freelancer</h4>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 - 🤖 I provide services, such as developing Discord
   [**Bots**](https://fiverr.com/s/xXKpg2D) and [**Servers**](https://fiverr.com/s/pdZkwzE).
 
-### Tech Stack
+#### Tech Stack
 
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF"></a>
