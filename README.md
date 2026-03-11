@@ -1,6 +1,6 @@
-## Hey There
+## Hey! I'm Omar...
 
-<a href="https://github.com/omardiaadev?tab=followers"><img alt="Follow" src="https://custom-icon-badges.demolab.com/github/followers/omardiaadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/omardiaadev?tab=followers"><img alt="Follow" src="https://custom-icon-badges.demolab.com/github/followers/omardiaadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"></a>
 <a href="https://github.com/omardiaadev?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/omardiaadev?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJtMTIgMTcuNzVsLTYuMTcyIDMuMjQ1bDEuMTc5LTYuODczbC01LTQuODY3bDYuOS0xbDMuMDg2LTYuMjUzbDMuMDg2IDYuMjUzbDYuOSAxbC01IDQuODY3bDEuMTc5IDYuODczeiIvPjwvc3ZnPg%3D%3D&labelColor=C79600&color=E1AD0E"></a>
 
 - 🐛 Writing Bugs Every Day!
@@ -14,7 +14,7 @@
 <a href="https://discord.gg/fWtQjEJgWX"><img alt="Discord" src="https://img.shields.io/discord/1055244032105787472?style=for-the-badge&logo=discord&logoColor=FFF&logoSize=auto&label=%20&color=5865F2"></a>
 
 <details>
-    <summary><h3>Technologies</h3></summary>
+    <summary><b>Technologies</b></summary>
     <p>
         <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF"></a>
         <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF"></a>
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-    <summary><h3>Activity</h3></summary>
+    <summary><b>Activity</b></summary>
     <a href="#"><img alt="Stats" src="profile/cards/stats.svg"/></a>
     <a href="#"><img alt="Top Languages" src="profile/cards/top-langs.svg"/></a>
 </details>
