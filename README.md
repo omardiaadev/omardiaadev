@@ -8,20 +8,30 @@
 
 <br>
 
-I'm Omar, I live inside the Pyramids of Egypt, coding away every day! I'm currently studying
-Computer Science & Engineering, but I also specialize in building optimized solutions using Java and many others.
-I take on complex projects to make people's lives easier.
+I'm a backend developer, living inside the Pyramids of Egypt, coding away every day! While I'm currently studying
+Computer Science & Engineering, I specialize in building scalable backends and custom solutions using Java and
+[many more](#technologies). I take on complex projects to make people's lives easier.
 
-Let's [chat](https://discord.omardiaa.dev) about your next project, or check out my
-[services](https://fiverr.omardiaa.dev) directly.
+Let's [plan](https://discord.omardiaa.dev) your next idea, or check out my [services](https://fiverr.omardiaa.dev)
+directly.
 
 <h2>Let's Chat!</h2>
 
 <a href="https://fiverr.omardiaa.dev"><img alt="Fiverr" src="https://img.shields.io/badge/-1DBF73?style=for-the-badge&logo=fiverr&logoColor=FFF&logoSize=auto"></a>
 <a href="https://discord.omardiaa.dev"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFF&color=5865F2"></a>
 
+<h2>Technologies</h2>
+
+<p>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF"></a>
+    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=FFF"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=303846"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=FFF"></a>
+</p>
+
 <details>
-    <summary><b>Technologies</b></summary>
+    <summary><b>More Technologies</b></summary>
     <br>
     <p>
         <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF"></a>
@@ -44,6 +54,7 @@ Let's [chat](https://discord.omardiaa.dev) about your next project, or check out
         <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=FFF"></a>
         <a href="#"><img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=FFF"></a>
         <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098"></a>
+        <a href="#"><img alt="cPanel" src="https://img.shields.io/badge/-FF6C2C?logo=cpanel&logoColor=FFF&logoSize=auto"></a>
     </p>
     <p>
         <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFF"></a>
