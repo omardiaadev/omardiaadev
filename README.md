@@ -1,20 +1,28 @@
-## Hey! I'm Omar...
+<h1 align="center">Hey There! I'm Omar</h1>
 
-<a href="https://github.com/omardiaadev?tab=followers"><img alt="Follow" src="https://custom-icon-badges.demolab.com/github/followers/omardiaadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"></a>
-<a href="https://github.com/omardiaadev?tab=repositories&sort=stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/omardiaadev?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJtMTIgMTcuNzVsLTYuMTcyIDMuMjQ1bDEuMTc5LTYuODczbC01LTQuODY3bDYuOS0xbDMuMDg2LTYuMjUzbDMuMDg2IDYuMjUzbDYuOSAxbC01IDQuODY3bDEuMTc5IDYuODczeiIvPjwvc3ZnPg%3D%3D&labelColor=C79600&color=E1AD0E"></a>
+<div align="center">
+    <a href="#"><img alt="Software Developer" src="https://img.shields.io/badge/%F0%9F%92%BB_Software_Developer-0055D2?style=for-the-badge"></a>
+    <a href="https://github.com/omardiaadev?tab=repositories&sort=stargazers"><img alt="Open Sourcerer" src="https://img.shields.io/badge/%F0%9F%93%A6_Open_Sourcerer-0055D2?style=for-the-badge"></a>
+    <a href="https://fiverr.omardiaa.dev"><img alt="Freelancer" src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Freelancer-0055D2?style=for-the-badge"></a>
+</div>
 
-- 🐛 Writing Bugs Every Day!
-- 📝 Studying Computer Engineering.
-- 🤖 I provide services, such as developing Discord
-  [**Bots**](https://fiverr.com/s/xXKpg2D) and [**Servers**](https://fiverr.com/s/pdZkwzE).
+I'm Omar, I live inside the Pyramids of Egypt, coding away every day! I'm currently studying
+Computer Science & Engineering, but I also specialize in building optimized solutions using Java and many others.
+I take on complex projects to make people's lives easier.
 
-## Let's Chat
+Let's [chat](https://discord.omardiaa.dev) about your next project, or check out my
+[services](https://fiverr.omardiaa.dev) directly.
 
-<a href="https://fiverr.com/skywolfxp"><img alt="Fiverr" src="https://img.shields.io/badge/-1DBF73?style=for-the-badge&logo=fiverr&logoColor=FFF&logoSize=auto"></a>
-<a href="https://discord.gg/fWtQjEJgWX"><img alt="Discord" src="https://img.shields.io/discord/1055244032105787472?style=for-the-badge&logo=discord&logoColor=FFF&logoSize=auto&label=%20&color=5865F2"></a>
+<h2 align="center">Get in Touch</h2>
+
+<a href="https://fiverr.omardiaa.dev"><img alt="Fiverr" src="https://img.shields.io/badge/-1DBF73?style=for-the-badge&logo=fiverr&logoColor=FFF&logoSize=auto"></a>
+<a href="https://discord.omardiaa.dev"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFF&color=5865F2"></a>
+
+<br>
 
 <details>
     <summary><b>Technologies</b></summary>
+    <br>
     <p>
         <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF"></a>
         <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFF"></a>
@@ -52,11 +60,9 @@
 </details>
 
 <details>
-    <summary><b>Activity</b></summary>
-    <a href="#"><img alt="Stats" src="profile/cards/stats.svg"/></a>
-    <a href="#"><img alt="Top Languages" src="profile/cards/top-langs.svg"/></a>
+    <summary><b>Open Source Activity</b></summary>
+    <a href="#"><img alt="GitHub Stats" src="profile/cards/stats.svg"/></a>
+    <a href="#"><img alt="GitHub Top Languages" src="profile/cards/top-langs.svg"/></a>
 </details>
-
-<h1></h1>
 
 <div align="center"><a href="#"><img alt="Visitors" src="https://komarev.com/ghpvc/?username=omardiaadev&label=Visitors&color=0055F2"></a></div>
