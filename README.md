@@ -6,6 +6,8 @@
     <a href="https://fiverr.omardiaa.dev"><img alt="Freelancer" src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_Freelancer-0055D2?style=for-the-badge"></a>
 </div>
 
+<br>
+
 I'm Omar, I live inside the Pyramids of Egypt, coding away every day! I'm currently studying
 Computer Science & Engineering, but I also specialize in building optimized solutions using Java and many others.
 I take on complex projects to make people's lives easier.
@@ -13,12 +15,10 @@ I take on complex projects to make people's lives easier.
 Let's [chat](https://discord.omardiaa.dev) about your next project, or check out my
 [services](https://fiverr.omardiaa.dev) directly.
 
-<h2 align="center">Get in Touch</h2>
+<h2>Let's Chat!</h2>
 
 <a href="https://fiverr.omardiaa.dev"><img alt="Fiverr" src="https://img.shields.io/badge/-1DBF73?style=for-the-badge&logo=fiverr&logoColor=FFF&logoSize=auto"></a>
 <a href="https://discord.omardiaa.dev"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFF&color=5865F2"></a>
-
-<br>
 
 <details>
     <summary><b>Technologies</b></summary>
@@ -61,6 +61,7 @@ Let's [chat](https://discord.omardiaa.dev) about your next project, or check out
 
 <details>
     <summary><b>Open Source Activity</b></summary>
+    <br>
     <a href="#"><img alt="GitHub Stats" src="profile/cards/stats.svg"/></a>
     <a href="#"><img alt="GitHub Top Languages" src="profile/cards/top-langs.svg"/></a>
 </details>
