@@ -1,18 +1,18 @@
-<h1 align="center">Hey There! I'm Omar</h1>
+# Hey There! I'm Omar
 
 I'm a backend developer. I'm currently studying Computer Engineering while taking on complex ideas to the next level by
 building scalable servers and custom solutions using Java and [many more](#technologies).
 
 I also build [open source](https://github.com/omardiaadev?tab=repositories&sort=stargazers) projects for fun.
 
-<h2>Let's Chat!</h2>
+## Let's Chat!
 
 **If you need help or want to discuss an idea, don't hesitate to reach out!**
 
 <a href="https://fiverr.omardiaa.dev"><img alt="Fiverr" src="https://img.shields.io/badge/-1DBF73?style=for-the-badge&logo=fiverr&logoColor=FFF&logoSize=auto"></a>
 <a href="https://discord.omardiaa.dev"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFF&color=5865F2"></a>
 
-<h2>Technologies</h2>
+## Technologies
 
 <p>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&style=flat-square&logoColor=FFF"></a>
