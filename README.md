@@ -1,6 +1,6 @@
 <h1 align="center">Hey There! I'm Omar</h1>
 
-I'm a backend developer. I'm currently studying Computer Engineering while taking on complex idea to the next level by
+I'm a backend developer. I'm currently studying Computer Engineering while taking on complex ideas to the next level by
 building scalable servers and custom solutions using Java and [many more](#technologies).
 
 I also build [open source](https://github.com/omardiaadev?tab=repositories&sort=stargazers) projects for fun.
