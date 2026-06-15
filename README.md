@@ -1,16 +1,16 @@
-# Hey There! I'm Omar
+# I'm Omar
 
 I'm a backend developer. I'm currently studying Computer Engineering while taking on complex ideas to the next level by
 building scalable servers and custom solutions using Java and [many more](#technologies).
 
 I also build [open source](https://github.com/omardiaadev?tab=repositories&sort=stargazers) projects for fun.
 
-## Let's Chat!
+## Let's Chat
 
 **If you need help or want to discuss an idea, don't hesitate to reach out!**
 
-<a href="https://fiverr.omardiaa.dev"><img alt="Fiverr" src="https://img.shields.io/badge/-1DBF73?style=for-the-badge&logo=fiverr&logoColor=FFF&logoSize=auto"></a>
-<a href="https://discord.omardiaa.dev"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFF&color=5865F2"></a>
+<a href="https://fiverr.omardiaa.dev"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge"></a>
+<a href="https://discord.omardiaa.dev"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge"></a>
 
 ## Technologies
 
@@ -23,7 +23,7 @@ I also build [open source](https://github.com/omardiaadev?tab=repositories&sort=
 </p>
 
 <details>
-    <summary><b>More Technologies</b></summary>
+    <summary><strong>More Technologies</strong></summary>
     <br>
     <p>
         <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&style=flat-square&logoColor=FFF"></a>
@@ -62,7 +62,7 @@ I also build [open source](https://github.com/omardiaadev?tab=repositories&sort=
 </details>
 
 <details>
-    <summary><b>Open Source Activity</b></summary>
+    <summary><strong>Open Source Activity</strong></summary>
     <br>
     <a href="#"><img alt="GitHub Stats" src="profile/cards/stats.svg"/></a>
     <a href="#"><img alt="GitHub Top Languages" src="profile/cards/top-langs.svg"/></a>
