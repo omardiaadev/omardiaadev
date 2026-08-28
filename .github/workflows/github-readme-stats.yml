@@ -20,6 +20,7 @@ jobs:
         with:
           card: stats
           path: profile/cards/stats.svg
+          fail_on_error: true
           token: ${{ secrets.PAT }}
           options: username=${{ github.repository_owner }}&theme=github_dark&hide_title=true&show_icons=true&hide=commits&hide_rank=true
 
@@ -28,6 +29,7 @@ jobs:
         with:
           card: top-langs
           path: profile/cards/top-langs.svg
+          fail_on_error: true
           token: ${{ secrets.PAT }}
           options: username=${{ github.repository_owner }}&theme=github_dark&hide_title=true&layout=compact
 
