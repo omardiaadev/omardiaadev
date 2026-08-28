@@ -13,10 +13,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Generate Profile Stats Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           path: profile/cards/stats.svg
@@ -24,7 +24,7 @@ jobs:
           options: username=${{ github.repository_owner }}&theme=github_dark&hide_title=true&show_icons=true&hide=commits&hide_rank=true
 
       - name: Generate Profile Top Languages Card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           path: profile/cards/top-langs.svg
