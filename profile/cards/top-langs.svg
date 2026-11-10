@@ -124,7 +124,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="158.04"
+          width="157.92"
           height="8"
           fill="#b07219"
         />
@@ -132,9 +132,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="158.04"
+          x="157.92"
           y="0"
-          width="75.91"
+          width="76.04"
           height="8"
           fill="#3178c6"
         />
@@ -142,7 +142,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.95"
+          x="233.95999999999998"
           y="0"
           width="19.86"
           height="8"
@@ -152,9 +152,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.81"
+          x="243.82"
           y="0"
-          width="15.58"
+          width="15.57"
           height="8"
           fill="#4F5D95"
         />
@@ -162,7 +162,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.39000000000001"
+          x="249.39"
           y="0"
           width="10.34"
           height="8"
@@ -172,7 +172,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.73000000000002"
+          x="249.73"
           y="0"
           width="10.28"
           height="8"
@@ -185,14 +185,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 63.22%
+        Java 63.17%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 30.36%
+        TypeScript 30.41%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
